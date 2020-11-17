@@ -1,0 +1,18 @@
+.spacer-toolbar{
+  flex: 1 auto;
+}
+
+.menu-toolbar{
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu-toolbar > a{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+#logout:hover{
+  cursor: pointer;
+}

@@ -1,0 +1,13 @@
+table{
+  width: 100%;
+}
+
+.container-table{
+  display: flex;
+  flex-direction: column;
+}
+
+.slide-toggle{
+  margin-bottom: 2%;
+  text-align: right;
+}
